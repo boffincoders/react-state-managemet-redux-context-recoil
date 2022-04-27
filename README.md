@@ -1,12 +1,9 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
-
-
 ## TODO App with nextjs manage with multiple statemanagement tools (Redux-toolkit , Context API , Recoil)
 
 
 ## Screenshots
 
-(assets/Screenshot 2022-04-26 at 5.56.08 PM.png)
+(https://github.com/boffincoders/react-state-managemet-redux-context-recoil/blob/main/public/assets/Screenshot%202022-04-26%20at%205.56.08%20PM.png)
 
 
 ## Getting Started
