@@ -24,5 +24,6 @@ export const toDoSlider = createSlice({
     },
   },
 });
+
 export const { addToDo, deleteToDo, editTodo } = toDoSlider.actions;
 export default toDoSlider.reducer;

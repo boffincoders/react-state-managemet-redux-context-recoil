@@ -8,6 +8,7 @@ const Dashboard = () => {
   return (
     <Box bgcolor={"background.default"} color="text.primary">
       <Navbar />
+      
       <Stack
         display={"flex"}
         justifyContent="space-between"

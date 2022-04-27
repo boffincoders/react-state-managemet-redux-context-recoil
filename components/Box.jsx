@@ -32,6 +32,8 @@ const CustomBox = ({ name, icon, link }) => {
           }}
           elevation={0}
         >
+
+          
           <img  src={icon} style={{height : 200 , width : 250 , padding : 10}}  />
           <CardContent>
             <Typography gutterBottom variant="h5" component="div">

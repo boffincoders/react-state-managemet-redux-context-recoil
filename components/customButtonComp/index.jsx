@@ -6,6 +6,8 @@ const CustomButton = ({ startIcon, title, onClick, childern }) => {
     <Button fullWidth startIcon={startIcon}  onClick={onClick} variant={"contained"}>
       {title}
     </Button>
+
+    
   );
 };
 

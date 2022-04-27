@@ -12,6 +12,8 @@ const MyApp = ({ Component, pageProps }) => {
       router.push("/dashboard");
     }
   }, []);
+
+  
   
   return (
     <Provider store={store}>

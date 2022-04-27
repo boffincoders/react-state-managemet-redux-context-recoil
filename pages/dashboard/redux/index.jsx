@@ -12,6 +12,8 @@ const Redux = () => {
       height="100vh"
       flexDirection={"column"}
     >
+
+      
       <AddTodo />
       <TodoItem />
     </Box>

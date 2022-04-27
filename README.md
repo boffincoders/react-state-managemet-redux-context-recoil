@@ -1,6 +1,6 @@
-## TODO App with nextjs manage with multiple statemanagement tools (Redux-toolkit , Context API , Recoil)
+## TODO App with nextjs manage with multiple state management tools (Redux-toolkit , Context API , Recoil)
 
-TODO App with multiple statemanagement libraries like Redux-toolkit , Context API , Recoil in nextjs.
+**A simple to do app with different state management techniques in reactjs**
 
 # Redux-toolkit
 
