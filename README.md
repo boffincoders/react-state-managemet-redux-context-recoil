@@ -2,8 +2,10 @@
 
 
 ## Screenshots
-
-(https://github.com/boffincoders/react-state-managemet-redux-context-recoil/blob/main/public/assets/Screenshot%202022-04-26%20at%205.56.08%20PM.png)
+<img src="https://github.com/boffincoders/react-state-managemet-redux-context-recoil/blob/main/public/assets/Screenshot%202022-04-26%20at%205.56.08%20PM.png" width="200" height="420" />
+<img src="https://github.com/boffincoders/react-state-managemet-redux-context-recoil/blob/main/public/assets/Screenshot%202022-04-26%20at%205.57.31%20PM.png  " width="200" height="420" />
+<img src="https://github.com/boffincoders/react-state-managemet-redux-context-recoil/blob/main/public/assets/Screenshot%202022-04-26%20at%205.58.04%20PM.png  " width="200" height="420" />
+<img src="https://github.com/boffincoders/react-state-managemet-redux-context-recoil/blob/main/public/assets/Screenshot%202022-04-26%20at%205.59.15%20PM.png" width="200" height="420" />
 
 
 ## Getting Started
